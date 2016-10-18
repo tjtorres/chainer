@@ -328,7 +328,7 @@ forget = forget.forget
 
 Space2Depth = space2depth.Space2Depth
 space2depth = space2depth.space2depth
-Depth2Space = space2depth.Depth2Space
+Depth2Space = depth2space.Depth2Space
 depth2space = depth2space.depth2space
 
 # Import for backward compatibility
